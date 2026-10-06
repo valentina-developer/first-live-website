@@ -32,3 +32,10 @@ and working on creative projects.
 
 This is my First personal website project created as part of my
 front-end engineering learning journey.
+
+## Technologies Used
+
+- HTML
+- Git
+- GitHub
+- GitHub Pages
